@@ -1,6 +1,6 @@
 ### Camimurg 🌙 
 
-Hi everyone, I am a Junior Fullstack Developer, freelancing atm.
+Hi everyone, I am a Junior Fullstack Developer, freelancing atm but looking for new job opporunities.
 
 I’m currently working on a RoR mobile application (BE&FE) and other small projects oriented more in FE to improve my portfolio.
 
